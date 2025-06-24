@@ -1,19 +1,12 @@
-# Core dependencies
-dask[array,diagnostics,distributed]>=2023.12,<2024.9
-numba>=0.59,<1
-numpy>=1.24,<2.1
-packaging>=23.1
-scipy==1.11.1
-zarr>=2.16,<3
-cloudpickle>=3.0.0,<4
-
-# Optional: Jupyter & matplotlib for notebook interactivity
-ipython>=8.14,<9
-jupyterlab>=4.0,<5
-matplotlib>=3.7,<4
-
-# Compatible version of scikit-image
+pyxu==2.0.3
+numpy==2.0.2
+scipy==1.15.3
+numba==0.61.2
+llvmlite==0.44.0
+matplotlib==3.10.3
 scikit-image==0.21.0
-
-# Install the actual pyxu package
-pyxu
+dask[array,diagnostics,distributed]==2024.8.2
+cloudpickle==3.1.1
+zarr==2.18.7
+ipython
+jupyterlab
