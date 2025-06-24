@@ -3,7 +3,7 @@ dask[array,diagnostics,distributed]>=2023.12,<2024.9
 numba>=0.59,<1
 numpy>=1.24,<2.1
 packaging>=23.1
-scipy>=1.11,<2
+scipy>=1.11,<1.12        # pinned to avoid TypeError from scipy.sparse
 zarr>=2.16,<3
 cloudpickle>=3.0.0,<4
 
