@@ -1,0 +1,23 @@
+# Core dependencies
+dask[array,diagnostics,distributed]>=2023.12,<2024.9
+numba>=0.59,<1
+numpy>=1.24,<2.1
+packaging>=23.1
+scipy>=1.11,<2
+zarr>=2.16,<3
+cloudpickle>=3.0.0,<4
+
+# Optional: Jupyter & matplotlib for notebook interactivity
+ipython>=8.14,<9
+jupyterlab>=4.0,<5
+matplotlib>=3.7,<4
+
+# Optional: scikit-image if using image processing features in notebooks
+scikit-image>=0.21,<1
+
+# Optional: GPU support with CuPy (choose one depending on CUDA version)
+# cupy-cuda11x>=13.0,<14
+# cupy-cuda12x>=13.0,<14
+
+# Install the actual pyxu package
+pyxu
