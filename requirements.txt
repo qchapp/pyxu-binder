@@ -7,6 +7,6 @@ matplotlib==3.10.3
 scikit-image==0.21.0
 dask[array,diagnostics,distributed]==2024.8.2
 cloudpickle==3.1.1
-zarr==2.18.7
+zarr==2.18.3
 ipython
 jupyterlab
