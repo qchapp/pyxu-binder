@@ -16,7 +16,7 @@ Explore and run the following Pyxu example notebooks in your browser:
 | **contributing.ipynb** | A guide to contributing to the Pyxu project | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qchapp/pyxu-binder/main?filepath=notebooks/contributing.ipynb) |
 | **deblur.ipynb** | A CT image deblurring example using Pyxu operators & solvers | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qchapp/pyxu-binder/main?filepath=notebooks/deblur.ipynb) |
 | **stencils.ipynb** | Demonstrates stencil and convolution operations in Pyxu | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qchapp/pyxu-binder/main?filepath=notebooks/stencils.ipynb) |
-| **xray.ipynb** | X‑ray reconstruction workflows with Pyxu | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qchapp/pyxu-binder/main?filepath=notebooks/xray.ipynb) |
+<!--| **xray.ipynb** | X‑ray reconstruction workflows with Pyxu | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qchapp/pyxu-binder/main?filepath=notebooks/xray.ipynb) |-->
 
 ---
 
